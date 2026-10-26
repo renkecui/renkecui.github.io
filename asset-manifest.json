@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6c5cfd27.css",
-    "main.js": "/static/js/main.23578bef.js",
+    "main.js": "/static/js/main.06fbf0bc.js",
     "static/media/Renke_at_Oia.webp": "/static/media/Renke_at_Oia.4fd25bdf24bdccdca103.webp",
     "static/media/LakersLogo.webp": "/static/media/LakersLogo.f87e6781beb24100b0a6.webp",
     "static/media/Sloth_Gym.webp": "/static/media/Sloth_Gym.0274cd4244683e78c0b3.webp",
     "index.html": "/index.html",
     "static/media/github-mark.svg": "/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
     "main.6c5cfd27.css.map": "/static/css/main.6c5cfd27.css.map",
-    "main.23578bef.js.map": "/static/js/main.23578bef.js.map"
+    "main.06fbf0bc.js.map": "/static/js/main.06fbf0bc.js.map"
   },
   "entrypoints": [
     "static/css/main.6c5cfd27.css",
-    "static/js/main.23578bef.js"
+    "static/js/main.06fbf0bc.js"
   ]
 }

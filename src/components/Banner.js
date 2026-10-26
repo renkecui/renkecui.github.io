@@ -31,9 +31,10 @@ const Banner = () => {
             <div>
               <h1 className="banner-name">Renke Cui</h1>
               <p className="banner-intro">
-                I'm a senior at Northeastern University majoring in{" "}
+                I'm a <strong>Software Developer I</strong> and a graduate of
+                Northeastern University, where I earned a degree in{" "}
                 <strong>Computer Engineering and Computer Science</strong> with
-                a minor in Business administration. I’m driven by the challenge
+                a minor in Business Administration. I’m driven by the challenge
                 of applying technology to create solutions that make life
                 better.
               </p>

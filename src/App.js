@@ -16,7 +16,6 @@ function App() {
       <Skills />
       <Experience />
       <ProjectCards />
-      {/* <Contact /> */}
       <ContactRestAPI />
       <Footer />
     </div>

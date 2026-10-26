@@ -1,6 +1,6 @@
 import "../Styles/Banner.css";
 import React, { useState, useEffect } from "react";
-import profileImg from "../assets/Renke_at_Oia.jpg";
+import profileImg from "../assets/Renke_at_Oia.webp";
 import linkedinLogo from "../assets/LI-In-Bug.png";
 import githubLogo from "../assets/github-mark.svg";
 import { Col, Container, Row, Button } from "react-bootstrap";
@@ -65,7 +65,7 @@ const Banner = () => {
             </div>
           </Col>
           <Col className="d-flex justify-content-center align-items-center">
-            <img src={profileImg} alt="Profile" className="banner-image" />
+            <img src={profileImg} alt="Renke Cui standing in Oia, Santorini" className="banner-image" />
           </Col>
         </Row>
       </Container>

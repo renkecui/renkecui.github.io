@@ -1,7 +1,7 @@
 import React from "react";
 import "../Styles/ProjectCards.css";
-import GymAppSloth from "../assets/Sloth_Gym.png";
-import LakersLogo from "../assets/LakersLogo.png";
+import GymAppSloth from "../assets/Sloth_Gym.webp";
+import LakersLogo from "../assets/LakersLogo.webp";
 const projectData = [
   {
     title: "Slothethics",
